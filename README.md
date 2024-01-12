@@ -9,3 +9,7 @@ Enlace presentación LLMs
 -----------------
 
 [Presentación en CANVAS](https://www.canva.com/design/DAF1r2IrE-o/FFuItifwSNehN1ofEPpPcQ/view?utm_content=DAF1r2IrE-o&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+Enlace Modelos OPENIA
+-----------------
+[Modelos](https://platform.openai.com/docs/models)
